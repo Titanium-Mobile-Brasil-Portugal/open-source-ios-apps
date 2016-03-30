@@ -29,7 +29,6 @@ Jump to
 - [Bonus](#bonus)
 
 ```
-🔶 Swift projects
 
 Projects that are not in English have a flag
 🇨🇳 Project is in Chinese
