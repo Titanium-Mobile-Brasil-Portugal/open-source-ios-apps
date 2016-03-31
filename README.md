@@ -43,8 +43,21 @@ Projects that are not in English have a flag
 1000+ Stars: 🔥🔥🔥🔥
 2000+ Stars: 🔥🔥🔥🔥🔥
 ``` 
+
+#apple-watch
+- [WatchSession Sample App](https://github.com/appcelerator-developer-relations/appc-sample-watchos2)  🍏
+
+#official
+- [Piwik Mobile 2 App](https://github.com/piwik/piwik-mobile-2): official Piwik app  🍏 👾
+
 #sample
+- [RSS sample app](https://github.com/appcelerator-developer-relations/Sample.RSS)  🍏 👾
+- [ToDo sample app](https://github.com/appcelerator-developer-relations/Sample.Todo)  🍏 👾
 - [NavigationDrawer Demo App](https://github.com/manumaticx/NavigationDrawer-Demo) 👾
+- [3D-Touch sample app](https://github.com/appcelerator-developer-relations/appc-sample-3dtouch) 🍏
+
+#social
+- [Pusteblume](https://github.com/m1ga/pusteblume): Diaspora Android App 👾
 
 #bonus
 
