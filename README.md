@@ -47,6 +47,9 @@ Projects that are not in English have a flag
 #apple-watch
 - [WatchSession Sample App](https://github.com/appcelerator-developer-relations/appc-sample-watchos2)  🍏
 
+#confernce
+- [Liferay Events](https://github.com/jamesfalkner/liferay-events-app)
+
 #official
 - [Piwik Mobile 2 App](https://github.com/piwik/piwik-mobile-2): official Piwik app  🍏 👾
 
