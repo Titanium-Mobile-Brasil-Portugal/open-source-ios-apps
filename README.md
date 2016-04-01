@@ -47,7 +47,7 @@ Projects that are not in English have a flag
 #apple-watch
 - [WatchSession Sample App](https://github.com/appcelerator-developer-relations/appc-sample-watchos2)  🍏
 
-#confernce
+#conference
 - [Liferay Events](https://github.com/jamesfalkner/liferay-events-app)
 
 #official
